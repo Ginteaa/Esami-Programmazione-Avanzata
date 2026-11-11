@@ -5,6 +5,11 @@ package com.samuele;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        Parcheggio p = new Parcheggio(5);
+        Operaio op = new Operaio(p, "operaio");
+        op.start();
+        for (int i = 0; i < 10; i++){
+            new Auto(p).start();
+        }
     }
 }
