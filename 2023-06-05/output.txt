@@ -1,0 +1,51 @@
+Consumatore: mi sono messo in attesa
+ProduttoreY: ho aggiunto un pezzo: (0.30131364, Y)
+ProduttoreX: ho aggiunto un pezzo: (0.5077626, X)
+ProduttoreX: mi metto a dormire per 544
+Consumatore: ho rimosso i pezzi: (0.5077626, X), (0.30131364, Y)
+ProduttoreY: mi metto a dormire per 239
+Consumatore: mi metto a dormire per 974
+ProduttoreY: ho aggiunto un pezzo: (0.4004216, Y)
+ProduttoreY: mi metto a dormire per 726
+ProduttoreX: ho aggiunto un pezzo: (0.7507517, X)
+ProduttoreX: mi metto a dormire per 209
+ProduttoreX: ho aggiunto un pezzo: (0.7610096, X)
+ProduttoreX: mi metto a dormire per 296
+ProduttoreY: ho aggiunto un pezzo: (0.8649131, Y)
+ProduttoreY: mi metto a dormire per 207
+Consumatore: ho rimosso i pezzi: (0.7507517, X), (0.4004216, Y)
+Consumatore: mi metto a dormire per 347
+ProduttoreX: ho aggiunto un pezzo: (0.7825429, X)
+ProduttoreX: mi metto a dormire per 416
+ProduttoreY: ho aggiunto un pezzo: (0.42193225, Y)
+ProduttoreY: mi metto a dormire per 673
+Consumatore: ho rimosso i pezzi: (0.7610096, X), (0.8649131, Y)
+Consumatore: mi metto a dormire per 651
+ProduttoreX: ho aggiunto un pezzo: (0.5715597, X)
+ProduttoreX: mi metto a dormire per 975
+ProduttoreY: ho aggiunto un pezzo: (0.6613689, Y)
+ProduttoreY: mi metto a dormire per 266
+Consumatore: ho rimosso i pezzi: (0.7825429, X), (0.42193225, Y)
+Consumatore: mi metto a dormire per 957
+ProduttoreY: ho aggiunto un pezzo: (0.6024742, Y)
+ProduttoreY: mi metto a dormire per 786
+ProduttoreX: ho aggiunto un pezzo: (0.27542427, X)
+ProduttoreX: mi metto a dormire per 553
+ProduttoreY: ho aggiunto un pezzo: (0.9362435, Y)
+ProduttoreY: mi metto a dormire per 466
+Consumatore: ho rimosso i pezzi: (0.5715597, X), (0.6613689, Y)
+Consumatore: mi metto a dormire per 37
+Consumatore: ho rimosso i pezzi: (0.27542427, X), (0.6024742, Y)
+Consumatore: mi metto a dormire per 710
+ProduttoreX: ho aggiunto un pezzo: (0.2472478, X)
+ProduttoreX: mi metto a dormire per 574
+ProduttoreY: ho aggiunto un pezzo: (0.417724, Y)
+ProduttoreY: mi metto a dormire per 835
+ProduttoreX: ho aggiunto un pezzo: (0.29606843, X)
+ProduttoreX: mi metto a dormire per 160
+Consumatore: ho rimosso i pezzi: (0.2472478, X), (0.9362435, Y)
+Consumatore: mi metto a dormire per 192
+ProduttoreX: ho aggiunto un pezzo: (0.42835218, X)
+ProduttoreX: mi metto a dormire per 521
+Consumatore: ho rimosso i pezzi: (0.29606843, X), (0.417724, Y)
+Consumatore: mi metto a dormire per 948
