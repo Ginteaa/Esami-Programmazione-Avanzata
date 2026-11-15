@@ -5,18 +5,11 @@ public enum Ingrediente {
     CAFFE,
     NIENTE;
 
-    @Override
-    public String toString() {
+    public Ingrediente altro() {
         switch (this) {
-            case CAFFE:
-                return "CAFFE";
-            case LATTE:
-                return "LATTE";
-            default:
-                return super.toString();
+            case LATTE: return CAFFE;
+            case CAFFE: return LATTE;
+            default:    return NIENTE;
         }
     }
-
-
-
 }
