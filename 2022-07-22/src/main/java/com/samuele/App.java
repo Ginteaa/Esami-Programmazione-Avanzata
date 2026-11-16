@@ -5,6 +5,7 @@ package com.samuele;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        ImageProcessor ip = new ImageProcessor("img.txt");
+        ip.process(4);
     }
 }
